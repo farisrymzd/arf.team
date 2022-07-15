@@ -199,7 +199,7 @@ figure{
 }
 
 .btn-style-one:hover{
-	color: #3786ff;
+	color: #303030;
 }
 
 .btn-style-one .btn-title{
@@ -207,7 +207,7 @@ figure{
 	display:block;
 	z-index:1;
 	padding: 18px 56px;
-	background-color: #3786ff;
+	background-color: #1B1811;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
@@ -216,7 +216,7 @@ figure{
 }
 
 .btn-style-one:hover .btn-title{
-	color:#3786ff;
+	color:#303030;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-moz-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
@@ -265,14 +265,14 @@ figure{
 	display: inline-block;
 	font-size: 14px;
 	line-height: 30px;
-	color: #3786ff;
+	color: #fff; /* button text */
 	font-weight: 400;
 	letter-spacing:1px;
 	text-transform:uppercase;
 }
 
 .btn-style-two:hover{
-	color: #3786ff;
+	color: pink;
 }
 
 .btn-style-two .btn-title{
@@ -280,7 +280,7 @@ figure{
 	display:block;
 	z-index:1;
 	padding: 8px 28px;
-	background-color: #ffffff;
+	background-color: #1B1811;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
@@ -289,7 +289,7 @@ figure{
 }
 
 .btn-style-two:hover .btn-title{
-	color:#ffffff;
+	color:#303030;
 	-webkit-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-moz-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
 	-ms-box-shadow: 0 10px 30px rgba(0,0,0,0.10);
@@ -305,7 +305,7 @@ figure{
 	height: 100%;
 	width: 100%;
 	content: "";
-	background-color: #3786ff;
+	background-color: #fff;
 	-webkit-transform: scale(0, 1);
 	-ms-transform: scale(0, 1);
 	transform: scale(0, 1);
@@ -1454,7 +1454,7 @@ img{
 	font-size: 40px;
 	line-height: 50px;
 	cursor: pointer;
-	color:#3786ff;
+	color: #fff;
 	display: none;
 }
 
@@ -1497,7 +1497,7 @@ img{
 	width: 100%;
 	height: 100%;
 	z-index: 1;
-	background:#3786ff;
+	background:#0b0b0b;
 	-webkit-transform: translateX(101%);
 	-ms-transform: translateX(101%);
 	transform: translateX(101%);
@@ -2043,8 +2043,8 @@ img{
 }
 
 .banner-section .owl-dots .owl-dot.active span{
-	background: #3786ff;
-	border-color: #3786ff;
+	background: #1B1811;
+	border-color: #1B1811;
 }
 
 .banner-section.style-two .owl-dots{
@@ -3515,7 +3515,7 @@ img{
 	height:80px;
 	top: 0px;
 	right: 0px;
-	float:right;
+	float: right;
 	color:#ffffff;
 	font-size:18px;
 	font-weight:400;
@@ -3633,11 +3633,11 @@ img{
 }
 
 .games-block .inner-box:hover .btn-style-two .btn-title{
-	color:#ffffff;	
+	color:#1B1811;	
 }
 
 .games-block .inner-box:hover .btn-style-two:before{
-	background:#ffffff;	
+	background:#1B1811;	
 }
 
 .games-block .inner-box .image{
