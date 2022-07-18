@@ -3634,28 +3634,22 @@ img{
 }
 
 .games-block .inner-box:hover .btn-style-two .btn-title{
-	color:#1B1811;	
+	color: #303030;	
 }
 
 .games-block .inner-box:hover .btn-style-two:before{
-	background:#1B1811;	
+	background:#ffffff;	
 }
 
 .games-block .inner-box .image{
 	position:relative;
 }
 
-/* additional code from FR */
-/* .games-block .inner-box .image img:nth-of-type(1){
-	position:absolute;
+.games-block .inner-box .image img{
+	position:relative;
 	width:100%;
 	display:block;
 }
-
-.games-block .inner-box .image:hover img:nth-of-type(1){
-	opacity: 0;
-} */
-/* additional code from FR */
 
 .games-block .inner-box .lower-content{
 	position:relative;
