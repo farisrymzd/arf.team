@@ -5534,7 +5534,7 @@ img{
 .player-info-section .text-column{
 	position:relative;
 	margin-bottom:30px;
-	order:12;
+	/* order:12; */
 }
 
 .player-info-section .text-column .inner{
