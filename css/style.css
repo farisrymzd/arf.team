@@ -3764,6 +3764,15 @@ img{
 	padding:110px 0px 110px;
 }
 
+.players-section-two{
+	position:relative;
+	padding:110px 0px 110px;
+	background: url(../images/background/about-management-bg.png);
+	background-size: auto;
+	background-position: center top;
+	background-repeat: repeat-y;
+}
+
 .players-section.style-two{
 	padding-top:90px;
 }
