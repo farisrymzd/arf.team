@@ -4,7 +4,6 @@
 define( "RECIPIENT_NAME", "Faris R" );
 define( "RECIPIENT_EMAIL", "gretfir@yahoo.co.id" );
 
-
 // Read the form values
 $success = false;
 $senderName = isset( $_POST['username'] ) ? preg_replace( "/[^\s\S\.\-\_\@a-zA-Z0-9]/", "", $_POST['username'] ) : "";
